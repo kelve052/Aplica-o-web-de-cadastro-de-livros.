@@ -33,7 +33,7 @@ Você pode encontrar o código-fonte da aplicação no GitHub:
 
 A imagem Docker da aplicação está disponível no DockerHub:
 
-[DockerHub: kelve/site](https://hub.docker.com/repository/docker/kelve/site/general)
+[DockerHub: kelve/site](https://hub.docker.com/repository/docker/kelve/site2/general)
 
 ### Como baixar imagem docker
 
